@@ -6,6 +6,7 @@ Multiclass classification problem, I used Python (Jupyter notebooks) and took CN
 
 Prerequisite for course on Predictive and Classification modelling at McGill University.
 
+### Data Sample:
 ![image](https://user-images.githubusercontent.com/47335322/201535685-acb08093-69e1-455b-897b-e98195dec6b2.png)  
 6 + 3 + 5 = 14
 
