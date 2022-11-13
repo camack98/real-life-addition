@@ -4,7 +4,7 @@
 Kaggle ML competition on digit recognition, but different to classic MNIST, ground truth is the sum of the numbers in the image. \
 Multiclass classification problem, I used Python (Jupyter notebook) and took a CNN approach.  
 
-Prerequisite for course on Predictive and Classification modelling at McGill University.
+Prerequisite for course on Predictive and Classification Modelling at McGill University.
 
 ### Data Sample:
 ![image](https://user-images.githubusercontent.com/47335322/201535685-acb08093-69e1-455b-897b-e98195dec6b2.png)  
