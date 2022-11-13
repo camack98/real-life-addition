@@ -21,5 +21,11 @@ Multilayer CNN
 Diagram created using NN-SVG tool: http://alexlenail.me/NN-SVG/LeNet.html
 
 ### Overall results:
-86.5% test accuracy  
-92.9% train accuracy
+86.5% test accuracy (Kaggle performed testing evaluation on 30% original test data, 70% other private data)  
+92.9% train accuracy  
+Model significantly overfit, as training accuracy was 6% higher than test accuracy. 
+
+### Possible improvements:
+- Add L1/L2 Regularization
+- Reduce model complexity (remove some convolution layers)
+- Try dropout with a higher rate, or more dropout layers.
