@@ -1,8 +1,8 @@
 # Real life addition ➕🤖🟰
 ### Overview:  https://www.kaggle.com/competitions/real-life-addition/ 
 
-Kaggle ML competition on digit recognition, but ground truth is the addition of numbers in the image. \
-Multiclass classification problem, I used Python (Jupyter notebooks) and took CNN approach.  
+Kaggle ML competition on digit recognition, but different to classic MNIST, ground truth is the sum of the numbers in the image. \
+Multiclass classification problem, I used Python (Jupyter notebook) and took CNN approach.  
 
 Prerequisite for course on Predictive and Classification modelling at McGill University.
 
@@ -15,3 +15,11 @@ Prerequisite for course on Predictive and Classification modelling at McGill Uni
 
 ### Structure:
 Multilayer CNN 
+
+<img width="1081" alt="Screen Shot 2022-11-13 at 5 58 22 PM" src="https://user-images.githubusercontent.com/47335322/201549031-d86868de-d623-4202-9437-27fc2bec93d1.png">  
+
+Diagram created using NN-SVG tool: http://alexlenail.me/NN-SVG/LeNet.html
+
+### Overall results:
+86.5% test accuracy  
+92.9% train accuracy
