@@ -2,7 +2,7 @@
 ### Overview:  https://www.kaggle.com/competitions/real-life-addition/ 
 
 Kaggle ML competition on digit recognition, but different to classic MNIST, ground truth is the sum of the numbers in the image. \
-Multiclass classification problem, I used Python (Jupyter notebook) and took CNN approach.  
+Multiclass classification problem, I used Python (Jupyter notebook) and took a CNN approach.  
 
 Prerequisite for course on Predictive and Classification modelling at McGill University.
 
